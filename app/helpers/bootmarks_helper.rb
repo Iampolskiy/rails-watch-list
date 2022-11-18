@@ -1,0 +1,2 @@
+module BootmarksHelper
+end
